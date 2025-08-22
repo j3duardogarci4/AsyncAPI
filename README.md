@@ -1,6 +1,6 @@
 Test of uisng AsyncAPI for an application wich store the next model of data:
 
-All the Seminars: api/seminars
+All the Seminars: *api/seminars*
 Seminar by Date:  api/seminar/search?date=1/5/2024
 Specific Seminar: api/seminar
 
